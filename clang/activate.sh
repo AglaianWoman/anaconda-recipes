@@ -21,6 +21,7 @@ else
     exit 1
 fi
 
+echo "Testing clang recipe built compiler..."
 ${CC} ${CFLAGS} test_clang.c -o test_output 
 
 export CFLAGS="${CFLAGS} -m${ARCH}"

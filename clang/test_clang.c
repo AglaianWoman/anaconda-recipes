@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 int main() {
-    printf("Testing clang recipe...\n");
+    printf("Clang recipe test successful.\n");
 }

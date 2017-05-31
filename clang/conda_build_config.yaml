@@ -1,5 +1,5 @@
 target_platform:
-  - osx-109-x86_64
+  - osx-1012-x86_64
 macos_min_version:
   - 10.12
 zip_keys:
